@@ -1,0 +1,4 @@
+/* Changing color */
+:root > * {
+    --md-primaru-fg-color: #007bc1
+}
